@@ -28,3 +28,4 @@ Notes and usage details for eRCaGuy_hello_world.
 - fix a small wording issue
 - clarify the setup steps
 - fix a small wording issue
+- clarify the setup steps
