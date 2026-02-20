@@ -54,3 +54,4 @@ Notes and usage details for eRCaGuy_hello_world.
 - clarify the setup steps
 - fix a small wording issue
 - link the usage section
+- fix a small wording issue
